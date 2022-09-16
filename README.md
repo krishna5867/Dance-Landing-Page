@@ -15,6 +15,5 @@ I have made this landing page by using HTML & CSS
 ## Challenging part of this project ?
    - Aligning image at left hand side for bigger screen and for mobile screen.
    
-## [Live link](https://interior-design-landing-page-xi.vercel.app/)
+## [Live link](https://dance-landing-page.vercel.app/)
 
-![Screenshot](https://github.com/krishna5867/Interior-Design-Landing-Page/blob/main/Screenshot.png)
